@@ -17,6 +17,16 @@ A Modular Laravel 5.1 Bootstrap, jQuery, Fontawesome, based starter site.
 * Extendable (add to the core with new modules)
 * Easy coding (no extra bs, no hard-to-use javascript or dependecys)
 
+# Installation
+* Fork
+* Clone
+
+    composer update
+    php artisan vendor:publish 
+    composer dump-autoload
+    php artisan db:seed --class=UserTableSeeder
+
+
 # Screenshots
 ![screenshot](http://i.imgur.com/ro8D43t.png)
 ![screenshot](http://i.imgur.com/b8zPe99.png)
