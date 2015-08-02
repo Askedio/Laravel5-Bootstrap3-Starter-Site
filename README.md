@@ -22,10 +22,10 @@ A Modular Laravel 5.1 Bootstrap, jQuery, Fontawesome, based starter site.
 * Clone
 
 
- composer update
- php artisan vendor:publish 
- composer dump-autoload
- php artisan db:seed --class=UserTableSeeder
+    composer update
+    php artisan vendor:publish 
+    composer dump-autoload
+    php artisan db:seed --class=UserTableSeeder
 
 
 
