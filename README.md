@@ -21,7 +21,6 @@ A Modular Laravel 5.1 Bootstrap, jQuery, Fontawesome, based starter site.
 * Fork
 * Clone
 
-
     composer update
     php artisan vendor:publish 
     composer dump-autoload
